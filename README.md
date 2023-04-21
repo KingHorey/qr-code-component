@@ -53,7 +53,8 @@ Code will be reviewed to make sure it it absolutely responsive across multiple d
 
 ## Author
 Frontend Mentor - [@kinghorey](https://www.frontendmentor.io/profile/KingHorey)
-Twitter - [@kinghorey](www.twitter.com/kinghorey)
+
+Twitter - [@kinghorey](https://twitter.com/kinghorey)
 
 
 
